@@ -7,7 +7,7 @@ React Native component for [jazzicon](https://github.com/danfinlay/jazzicon)
 ## Installation
 
 ```bash
-  $ npm i react-native-jazzicon -S
+  $ npm i @novaviva/react-native-jazzicon -S
   $ react-native link react-native-svg
 ```
 
@@ -16,7 +16,7 @@ React Native component for [jazzicon](https://github.com/danfinlay/jazzicon)
 With numeric `seed`: 
 
 ```js
-import Jazzicon from 'react-native-jazzicon'
+import Jazzicon from '@novaviva/react-native-jazzicon'
  
 export default class App extends React.Component {
    render() {
@@ -30,7 +30,7 @@ export default class App extends React.Component {
 With ethereum `address`: 
 
 ```js
-import Jazzicon from 'react-native-jazzicon'
+import Jazzicon from '@novaviva/react-native-jazzicon'
  
 export default class App extends React.Component {
    render() { 
