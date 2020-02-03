@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "color": "^3.0.0",
-    "mersenne-twister": "^1.1.0"
+    "mersenne-twister": "^1.1.0",
+    "react-native-svg": "^11.0.1"
   },
   "peerDependencies": {
     "react": "^16.4.2",
